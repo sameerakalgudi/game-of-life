@@ -504,14 +504,14 @@
  <repository>
   <id>samkalgudi-nexus</id>
   <name>samkalgudi nexus</name>
-  <url>dav:http://35.163.15.56:8080/nexus-2.14.2-01/#welcome</url>
+  <url>dav:http://35.163.15.56:8080/nexus-2.14.2-01/content/repositories/test/</url>
  </repository>
 
  <!-- Publish the versioned releases here -->
  <snapshotRepository>
   <id>samkalgudi-nexus</id>
   <name>samkalgudi nexus</name>
-  <url>dav:http://35.163.15.56:8080/nexus-2.14.2-01/#welcome</url>
+  <url>dav:http://35.163.15.56:8080/nexus-2.14.2-01/content/repositories/test/</url>
  </snapshotRepository>
 </distributionManagement>
 
@@ -520,7 +520,7 @@
  <repository>
   <id>samkalgudi-nexus</id>
   <name>samkalgudi nexus</name>
-  <url>http://35.163.15.56:8080/nexus-2.14.2-01/#welcome</url>
+  <url>http://35.163.15.56:8080/nexus-2.14.2-01/content/repositories/test/</url>
   <releases>
    <enabled>true</enabled>
   </releases>
@@ -536,7 +536,7 @@
  <pluginRepository>
   <id>samkalgudi-nexus</id>
   <name>samkalgudi nexus</name>
-  <url>http://35.163.15.56:8080/nexus-2.14.2-01/#welcome</url>
+  <url>http://35.163.15.56:8080/nexus-2.14.2-01/content/repositories/test/</url>
   <releases>
    <enabled>true</enabled>
   </releases>
