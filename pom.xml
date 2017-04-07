@@ -502,7 +502,7 @@
     <distributionManagement>
 <snapshotRepository>
   <id>samkalgudi-nexus</id>
-  <url>http://35.161.178.74:8080/nexus-2.14.2-01/content/repositories/test/</url>
+  <url>http://35.154.16.60:8080/nexus-2.14.2-01/content/shadows/nexusdemo</url>
 </snapshotRepository>
     </distributionManagement>
 </project>
